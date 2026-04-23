@@ -1,10 +1,10 @@
 :root.theme-light {
   --page-background: url("../images/cover-image-light.png");
-  --title-color: #353430; 
+  --title-color: #353430;
   --bg-color: #fff1f7;
   --accent-color: #ffc2e6;
   --color-paragraf: #353430;
-  --main-sub-title: #353430; 
+  --main-sub-title: #353430;
   --title: #353430;
   --text-shadow: #ff8dcb;
   --hover-button: #32312d66;
@@ -15,15 +15,15 @@
 @media (prefers-color-scheme: light) {
   :root {
     --page-background: url("../images/cover-image-light.png");
-    --title-color: #353430; 
+    --title-color: #353430;
     --bg-color: #fff1f7;
     --accent-color: #ffc2e6;
     --color-paragraf: #353430;
-    --main-sub-title: #353430; 
+    --main-sub-title: #353430;
     --title: #353430;
     --text-shadow: #ff8dcb;
-    --hover-button: #32312d66; 
-    --footer-title: #ff8dcb; 
+    --hover-button: #32312d66;
+    --footer-title: #ff8dcb;
     --display-rec: none;
   }
 }
