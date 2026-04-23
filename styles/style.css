@@ -3,7 +3,7 @@
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size:  cover;
+  background-size: cover;
   background-color: var(--bg-color);
 }
 
@@ -243,14 +243,6 @@
     grid-template-columns: 1fr 2fr;
     gap: 20px;
     padding: 0px 20px 0px 20px;
-  }
-
-  .section__conteiner-attention,
-  .section__conteiner-concentrate {
-    margin-bottom: 80px;
-  }
-
-  .section__conteiner-advice {
     margin-bottom: 80px;
   }
 
@@ -322,16 +314,35 @@
     align-self: start;
   }
 
+  .section__conteiner {
+    gap: 20px;
+    margin-bottom: 80px;
+  }
+
   .section__conteiner-attention .section__article-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
   }
 
-  .section__conteiner-concentrate,
-  .section__conteiner-attention,
-  .section__conteiner-advice {
-    margin-bottom: 80px;
+  .section-article__sub-title-margin {
+    margin-bottom: 18px;
+  }
+
+  .section-article {
+    margin-bottom: 20px;
+  }
+
+  .section__article-list {
+    margin-bottom: 47px;
+  }
+
+  .section__conteiner-picter {
+    margin-bottom: 22px;
+  }
+
+  .section-gallery {
+    margin-bottom: 39px;
   }
 
   .footer {
