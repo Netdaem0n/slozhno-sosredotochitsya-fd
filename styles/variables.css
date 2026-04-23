@@ -12,7 +12,7 @@
   --display-rec: block;
 }
 
-@media screen and (width >= 768) {
+@media screen and (width >= 768px) {
   :root {
     --fs-clamp: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
