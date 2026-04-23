@@ -247,11 +247,11 @@
 
   .section__conteiner-attention,
   .section__conteiner-concentrate {
-    margin-bottom: 10px;
+    margin-bottom: 80px;
   }
 
   .section__conteiner-advice {
-    margin-bottom: 10px;
+    margin-bottom: 80px;
   }
 
   .sub-title-section-weight {
@@ -322,47 +322,16 @@
     align-self: start;
   }
 
-  .section__conteiner {
-    gap: 10px;
-    margin-bottom: 2px;
-  }
-
   .section__conteiner-attention .section__article-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
   }
 
+  .section__conteiner-concentrate,
+  .section__conteiner-attention,
   .section__conteiner-advice {
-    margin-bottom: 9px;
-  }
-
-  .section__conteiner-title {
-    margin-bottom: 8px;
-  }
-
-  .section-article__sub-title-margin {
-    margin-bottom: 18px;
-  }
-
-  .section-article {
-    margin-bottom: 20px;
-  }
-
-  .section__article-list {
-    margin-bottom: 47px;
-  }
-
-  .section__conteiner-picter {
-    margin-bottom: 22px;
-  }
-
-  .section__conteiner-concentrate {
-    margin-bottom: 15px;
-  }
-
-  .section-gallery {
-    margin-bottom: 39px;
+    margin-bottom: 80px;
   }
 
   .footer {
